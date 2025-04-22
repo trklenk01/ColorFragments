@@ -1,3 +1,5 @@
+//Thomas Klenk
+
 package edu.msudenver.cs3013.colorfragments
 
 import android.os.Bundle
